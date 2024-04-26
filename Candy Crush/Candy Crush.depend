@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1481538282 source:c:\users\es\desktop\lpi\candy crush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481556151 c:\users\es\desktop\lpi\candy crush\jogo.h
+
+1481585319 source:c:\users\es\desktop\lpi\candy crush\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481483082 source:c:\users\marcus\desktop\candy crush\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481370414 c:\users\marcus\desktop\candy crush\jogo.h
+
+1481370414 source:c:\users\marcus\desktop\candy crush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481337829 source:c:\users\latretz\desktop\candy crush2\candy crush\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481333456 c:\users\latretz\desktop\candy crush2\candy crush\jogo.h
+
+1481337379 source:c:\users\latretz\desktop\candy crush2\candy crush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481337821 c:\users\latretz\desktop\candy crush2\candy crush\vetores.h
+
+1481338035 source:c:\users\latretz\desktop\candy crush2\candy crush\vetores.c
+	<stdio.h>
+	<stdlib.h>
+	"vetores.h"
+
+1481341875 source:c:\users\marcus\desktop\candy crush2\candy crush\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481333456 c:\users\marcus\desktop\candy crush2\candy crush\jogo.h
+
+1481337821 c:\users\marcus\desktop\candy crush2\candy crush\vetores.h
+
+1481337379 source:c:\users\marcus\desktop\candy crush2\candy crush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481338035 source:c:\users\marcus\desktop\candy crush2\candy crush\vetores.c
+	<stdio.h>
+	<stdlib.h>
+	"vetores.h"
+
+1481333779 source:c:\users\es\desktop\lpi\candy crush2\candy crush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481329856 c:\users\es\desktop\lpi\candy crush2\candy crush\jogo.h
+
+1481334221 c:\users\es\desktop\lpi\candy crush2\candy crush\vetores.h
+
+1481334435 source:c:\users\es\desktop\lpi\candy crush2\candy crush\vetores.c
+	<stdio.h>
+	<stdlib.h>
+	"vetores.h"
+
+1481381834 source:c:\users\es\desktop\lpi\candy crush2\candy crush\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481403345 source:c:\users\wesley\desktop\candy crush_\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481370414 c:\users\wesley\desktop\candy crush_\jogo.h
+
+1481370414 c:\users\wesley\desktop\candy crush_\vetores.h
+
+1481370414 source:c:\users\wesley\desktop\candy crush_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481370414 source:c:\users\wesley\desktop\candy crush_\vetores.c
+	<stdio.h>
+	<stdlib.h>
+	"vetores.h"
+
+1481478086 source:c:\users\wesley\desktop\candy crush\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481370414 c:\users\wesley\desktop\candy crush\jogo.h
+
+1481370414 c:\users\wesley\desktop\candy crush\vetores.h
+
+1481370414 source:c:\users\wesley\desktop\candy crush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"Jogo.h"
+	"vetores.h"
+
+1481370414 source:c:\users\wesley\desktop\candy crush\vetores.c
+	<stdio.h>
+	<stdlib.h>
+	"vetores.h"
+
+1481370414 c:\users\marcus\desktop\candy crush\vetores.h
+
+1481481309 source:c:\users\marcus\desktop\candy crush\vetores.c
+	<stdio.h>
+	<stdlib.h>
+	"vetores.h"
+
+1481366814 c:\users\es\desktop\lpi\candy crush\vetores.h
+
+1481510407 source:c:\users\es\desktop\lpi\candy crush\vetores.c
+	<stdio.h>
+	<stdlib.h>
+	"vetores.h"
+
